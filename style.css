@@ -41,3 +41,7 @@
   font-family: Open Sans, Helvetica, Arial, sans-serif;
   font-style: italic;
 }
+
+.my-flex-container{
+  display: flex;
+}
