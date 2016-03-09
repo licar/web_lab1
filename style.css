@@ -25,3 +25,7 @@
   padding-left: 80px;
   float: left;
 }
+
+.link:hover {
+  color: #16ABC1
+}
