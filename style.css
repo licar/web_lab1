@@ -1,0 +1,24 @@
+.header{
+  width: 100%;
+  position: fixed;
+  background-color: #001c20;
+}
+
+.imgSails{
+  margin-left: 100px;
+  float:left;
+}
+
+.version{
+  color: #FFF;
+  float:left;
+}
+
+.menu{
+  margin-right: 100px;
+  float:right;
+}
+
+.link{
+  color: #FFF;
+}
