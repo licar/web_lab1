@@ -42,18 +42,16 @@
   font-style: italic;
 }
 
-.flex-container{
+.container{
     position: absolute;
     left: 50%;
     margin-left: -850px;
-    display: -webkit-flex;
-    display: flex;
-    width: 100000px;
 }
 
-.flex-item {
+.item {
     background-color: cornflowerblue;
     width: 550px;
     height: 400px;
     margin: 10px;
+    float: left;
 }
