@@ -50,11 +50,12 @@
 .container{
     left: 50%;
     clear: both;
+    padding-top: 60px;
 }
 
 .item {
     width: 550px;
-    height: 400px;
+    height: 260px;
     float: left;
 }
 
@@ -62,17 +63,19 @@
     float : left;
 }
 
-.short_description {
-    
-    color: #0b8fa2;
+.one_description {
+    position: relative;
+    padding-left: 120px;
     font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    height: auto;
+    width: 380px;
+}
+
+.short_description {
+    color: #0b8fa2;
     font-size: 18px;
-    width: 430px;
-    height: 400px;
-    clear: both;
 }
 
 .full_description {
-    width: 430px;
-    height: 400px;
+  line-height: 1.9em;
 }
