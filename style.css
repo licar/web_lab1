@@ -69,6 +69,7 @@
     font-family: "Open Sans",Helvetica,Arial,sans-serif;
     height: auto;
     width: 380px;
+    margin-top: -20px;
 }
 
 .short_description {
