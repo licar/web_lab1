@@ -4,6 +4,11 @@
   background-color: #001c20;
 }
 
+.body {
+  width: 1650px;
+  margin: 0 auto;
+}
+
 .imgSails{
   position: absolute;
   right: 50%;
@@ -43,15 +48,31 @@
 }
 
 .container{
-    position: absolute;
     left: 50%;
-    margin-left: -850px;
+    clear: both;
 }
 
 .item {
-    background-color: cornflowerblue;
     width: 550px;
     height: 400px;
-    margin: 10px;
     float: left;
+}
+
+.icon {
+    float : left;
+}
+
+.short_description {
+    
+    color: #0b8fa2;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    width: 430px;
+    height: 400px;
+    clear: both;
+}
+
+.full_description {
+    width: 430px;
+    height: 400px;
 }
