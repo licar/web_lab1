@@ -49,8 +49,8 @@
 
 .container{
     left: 50%;
-    clear: both;
     padding-top: 60px;
+    clear: both;
 }
 
 .item {
@@ -78,5 +78,28 @@
 }
 
 .full_description {
-  line-height: 1.9em;
+    line-height: 1.9em;
+}
+
+.book_buttom {
+    margin-top: 400px;
+    margin-left: 550px;
+    background: #0e6471;
+    color: #FFF;
+    text-align: center;
+    width: 600px;
+    height: 60px;
+    clear: both;
+}
+
+.txt_learn {
+    padding-top: 10px;
+    font-family: Open Sans, Helvetica, Arial, sans-serif;
+}
+
+.book {
+  margin-left: 400px;
+  border: 1px solid #d0d6d7;
+  width: 900px;
+  height: 200px;
 }
