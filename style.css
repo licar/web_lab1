@@ -88,18 +88,65 @@
     color: #FFF;
     text-align: center;
     width: 600px;
-    height: 60px;
+    height: 90px;
     clear: both;
 }
 
+.book_buttom:hover {
+  background: #16ABC1;
+}
+
 .txt_learn {
-    padding-top: 10px;
+    padding: 10px 0;
     font-family: Open Sans, Helvetica, Arial, sans-serif;
 }
 
 .book {
+  margin-top: 100px;
   margin-left: 400px;
   border: 1px solid #d0d6d7;
   width: 900px;
   height: 200px;
+}
+
+.book_left {
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 130px;
+  float: left;
+}
+
+.book_center {
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 280px;
+  float: left;
+  text-align: left;
+}
+
+.book_right {
+  padding-left: 50px;
+  padding-top: 40px;
+  height: 20px;
+  width: 200px;
+  float: left;
+}
+
+.buttom_to_book {
+  background: #118798;
+  width: 260px;
+  height: 80px;
+  border-radius: 8px;
+}
+
+.text_buttom_to_book {
+  text-align: center;
+  color: #FFF;
+  padding: 20px 0;
+}
+
+.buttom_to_book:hover {
+  background: #0b8fa2;
 }
