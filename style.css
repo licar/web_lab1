@@ -184,7 +184,7 @@
 }
 
 .github {
-  margin-left: 300px;
+  margin-left: 350px;
   width: 500px;
   height: 100px;
   background: #000;
@@ -195,7 +195,28 @@
 .twitter {
   width: 500px;
   height: 100px;
-  margin-left: 600px;
+  margin-left: 50px;
   background: #41bac2;
   float: left;
+}
+
+.github:hover{
+  opacity: 1;
+}
+
+.twitter:hover{
+  background: #000;
+}
+
+.image {
+  padding-left: 90px;
+  padding-top: 20px;
+  float: left;
+}
+
+.text {
+  padding-left: 20px;
+  padding-top: 10px;
+  float: left;
+  color: #FFF;
 }
