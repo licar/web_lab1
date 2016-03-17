@@ -301,3 +301,26 @@
   height: 110px;
   background-color: #001c20;
 }
+
+.footer_body {
+  width: 1650px;
+  margin: 0 auto;
+}
+
+.get_started {
+  margin-top: 25px;
+  margin-left: 1450px;
+  height: 60px;
+  width: 200px;
+  background: #0b8fa2;
+  color: #FFF;
+}
+
+.text_get_started {
+  text-align: center;
+  padding-top: 2px;
+}
+
+.get_started:hover {
+  background: #41bac2
+}
