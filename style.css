@@ -252,4 +252,15 @@
     padding-top : 110px;
     width: 1650px;
     margin: 0 auto;
+    color: #FFF;
+    font-family: Open Sans, Helvetica, Arial, sans-serif;
+}
+
+.love {
+  padding-left: 20px;
+  width: 600px;
+}
+
+.heart {
+  float : left;
 }
